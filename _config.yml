@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Amar Viswanathan"
+  avatar           : "profile.jpg"
+  bio              : "Semantic Web, Query Reformulation, Question Answering and Knowledge Graphs "
   location         : "Troy, New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=1YecUQMAAAAJ&hl=en&oi=ao"
