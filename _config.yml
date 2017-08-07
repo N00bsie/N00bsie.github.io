@@ -84,7 +84,7 @@ author:
   location         : "Troy, New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=1YecUQMAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "kannaa@rpi.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/N00bsie"
+  github           : "N00bsie"
   google_plus      :
   keybase          :
   instagram        :
@@ -101,7 +101,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/2526444/n00bsie"
+  stackoverflow    : "2526444/n00bsie"
   steam            :
   tumblr           :
   twitter          : "amarv"
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
