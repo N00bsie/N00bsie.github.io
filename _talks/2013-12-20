@@ -1,0 +1,20 @@
+---
+title: "Text Analysis of International Open Government Data"
+collection: talks
+type: "Talk"
+permalink: /talks/2013-12-20-talk-1
+venue: "Rensselaer Polytechnic Institute"
+date: 2013-12-20
+location: "Troy, New York"
+---
+
+International Open Government Data Search aims to discover, document and analyze data catalogs that are published by different governments 
+all over the world. We at Tetherless World Constellation are investigating these open government datasets using semantic web technologies. 
+The datasets are published in a variety of data formats for eg.. csv,excel .. These are translated to Resource Description Framework by a 
+variety of in-house toolkits that get them onto the Linked Data cloud. As of now we have accumulated 192 catalogs from 43 countries in 
+about 24 different languages. This list is exponentially growing as governments of the world are increasingly publishing data for 
+public consumption
+
+[More details here](https://logd.tw.rpi.edu/iogds_analytics_2)
+
+Download the **PDF** version of the poster for the talk [here](https://N00bsie.github.io/files/Text_Analysis_IOGDS_Poster(Version.3).pdf)
