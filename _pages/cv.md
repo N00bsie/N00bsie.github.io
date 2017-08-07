@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 CV
 ======
 Download the **PDF** version [here](https://N00bsie.github.io/files/cv-latest.pdf)
