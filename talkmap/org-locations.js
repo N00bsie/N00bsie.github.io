@@ -5,14 +5,14 @@ var addressPoints = [
     73.6918
   ],
   [
-    "London, UK",
-    51.5073219,
+    "Yorktown Heights NY, USA",
+    41.2709,
     -0.1276473
   ],
   [
     "San Francisco, California",
     37.7792808,
-    -122.4192362
+    73.7776
   ],
   [
     "Los Angeles, CA",
