@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Amar, a PhD student at the [Tetherless World Constellation](https://tw.rpi.edu/) under the inimitable [Jim Hendler](https://en.wikipedia.org/wiki/James_Hendler). I came to RPI in Fall '11 and since then I have stumbled on things like inferring knowledge from text using Knowledge Graphs, Question Answering on Linked Data using Watson, and Summarization of Customer Support Logs.  Before that I used to be a research professional at Infosys Labs and  worked on Sentiment Analysis and Information Extraction. 
+Hi! I am Amar, a PhD student at the [Tetherless World Constellation](https://tw.rpi.edu/) under the inimitable [Jim Hendler](https://en.wikipedia.org/wiki/James_Hendler). I came to RPI in Fall '11 and since then I have stumbled on things like inferring knowledge from text using Knowledge Graphs, Question Answering on Linked Data using Watson, and Summarization of Customer Support Logs.  Before that I used to work at Infosys Labs on Sentiment Analysis and Information Extraction. 
 
 Since the Fall '15, my research focus has been on introducting the notion of  _Pragmatics_ for query reformulation in Knowledge Graphs. My thesis is tentatively titled _A methodology for reformulating failing Knowledge Graph queries using schema-data and instance-data awareness_, where contextual reformulations are suggested for failing graph queries. 
 
