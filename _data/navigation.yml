@@ -5,9 +5,14 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
+    
+  - title: "CV"
+    url: /cv/
+    
   - title: "Beyond Research"
     url: /beyond/
+    
+    
  # - title: "Teaching"
  #   url: /teaching/    
     
@@ -17,8 +22,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
  # - title: "Guide"
  #   url: /markdown/
