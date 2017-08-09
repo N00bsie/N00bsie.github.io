@@ -3,7 +3,7 @@ title: "Schema- and Data-Aware Querying in Heterogeneous Knowledge Graphs"
 collection: Youtube
 type: "TWed Talk"
 permalink: /talks/2016-03-23-talk-3
-venue: "IBM TJ Watson Research Center"
+venue: "Tetherless World Constellation"
 date: 2016-03-23
 location: "Troy, NY"
 ---
