@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Download the **PDF** version [here](https://N00bsie.github.io/files/cv-latest.pdf)
+Download the **PDF** version [here](https://amarviswanathan.github.io/files/cv-latest.pdf)
 
 
